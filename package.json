@@ -1,0 +1,17 @@
+{
+ "name": "manhattan",
+ "version": "0.1.0",
+ "description": "Determines the Manhattan distance between two points in two-dimensional space",
+ "keywords": [
+  "manhattan",
+  "distance",
+  "geometry"
+ ],
+ "main": "index.js",
+ "license": "MIT",
+ "author": "Brandon Semilla (https://github.com/semibran)",
+ "repository": {
+  "type": "git",
+  "url": "https://github.com/semibran/manhattan.git"
+ }
+}
