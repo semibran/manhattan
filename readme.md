@@ -3,15 +3,16 @@
 
 ![Manhattan distance](diagram.png "skrrt")
 
-This module exposes the function `manhattan(a, b)`, which determines the Manhattan distance between points `a` and `b`.
+This module exposes the function `distance(a, b)`, which determines the Manhattan distance between points `a` and `b`.
 ```js
-> const manhattan = require('manhattan')
-> manhattan([2, 5], [4, 8])
+> const distance = require('manhattan')
+> distance([2, 5], [4, 8])
 5
 ```
 <!-- [![NPM](https://nodei.co/npm/manhattan.png?mini)](https://www.npmjs.com/package/manhattan) -->
 
 ## see also
+- [`semibran/euclidean`](https://github.com/semibran/euclidean) - calculate Euclidean distance
 - [`semibran/chebyshev`](https://github.com/semibran/chebyshev) - calculate Chebyshev distance
 - [`semibran/vector`](https://github.com/semibran/vector) - more vector math
 - [`kchapelier/von-neumann`](https://github.com/kchapelier/von-neumann) - find all points within a given Manhattan distance
