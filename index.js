@@ -1,5 +1,8 @@
-var abs = Math.abs
-
 module.exports = function manhattan(a, b) {
-  return abs(b.x - a.x) + abs(b.y - a.y)
+  var distance = 0
+  var dimensions = Math.max(a.length, b.length)
+  for (var i = 0; i < dimensions; i++) {
+    distance += Math.abs((b[i] || 0) - (a[i] || 0))
+  }
+  return distance
 }
