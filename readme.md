@@ -12,7 +12,7 @@ This module exposes the function `manhattan(a, b)`, which determines the Manhatt
 <!-- [![NPM](https://nodei.co/npm/manhattan.png?mini)](https://www.npmjs.com/package/manhattan) -->
 
 ## see also
-- [`semibran/chebyshev`](https://github.com/semibran/chebyshev) - calculate chebyshev distance
+- [`semibran/chebyshev`](https://github.com/semibran/chebyshev) - calculate Chebyshev distance
 - [`semibran/vector`](https://github.com/semibran/vector) - more vector math
 - [`kchapelier/von-neumann`](https://github.com/kchapelier/von-neumann) - find all points within a given Manhattan distance
 
