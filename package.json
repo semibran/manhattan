@@ -1,7 +1,7 @@
 {
  "name": "manhattan",
  "version": "0.0.0",
- "description": "Determine the Manhattan distance between two points",
+ "description": "Calculate the Manhattan distance between two points",
  "keywords": [
   "manhattan",
   "distance",
