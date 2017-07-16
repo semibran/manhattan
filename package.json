@@ -2,12 +2,7 @@
  "name": "manhattan",
  "version": "0.0.0",
  "description": "Calculate the Manhattan distance between two points",
- "keywords": [
-  "manhattan",
-  "distance",
-  "math",
-  "geometry"
- ],
+ "keywords": ["manhattan", "distance", "math", "geometry"],
  "files": ["index.js"],
  "license": "MIT",
  "author": "Brandon Semilla (https://github.com/semibran)",
