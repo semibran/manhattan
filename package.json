@@ -1,6 +1,6 @@
 {
  "name": "manhattan",
- "version": "0.0.0",
+ "version": "1.0.0",
  "description": "Calculate the Manhattan distance between two points",
  "keywords": ["manhattan", "distance", "math", "geometry"],
  "files": ["index.js"],
