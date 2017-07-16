@@ -9,7 +9,7 @@ This module exposes the function `distance(a, b)`, which determines the Manhatta
 > distance([2, 5], [4, 8])
 5
 ```
-<!-- [![NPM](https://nodei.co/npm/manhattan.png?mini)](https://www.npmjs.com/package/manhattan) -->
+[![NPM](https://nodei.co/npm/manhattan.png?mini)](https://www.npmjs.com/package/manhattan)
 
 ## see also
 - [`semibran/euclidean`](https://github.com/semibran/euclidean) - calculate Euclidean distance
